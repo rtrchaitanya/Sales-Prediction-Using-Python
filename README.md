@@ -26,7 +26,7 @@ The given problem statement can be solved using Machine Learning or Deep Learnin
 
 ## Dataset
 
-The dataset used for training and testing the model is not included in this repository due to its size. You can find the dataset we used [here](link-to-dataset), and it should be downloaded and placed in the appropriate location before running the code.
+The dataset used for training and testing the model is not included in this repository due to its size. You can find the dataset we used [here](https://github.com/rtrchaitanya/Sales-Prediction-Using-Python/blob/main/Car%20Purchasing%20Data.csv), and it should be downloaded and placed in the appropriate location before running the code.
 
 ## Usage
 
