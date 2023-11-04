@@ -2,6 +2,8 @@
 
 Welcome to the Car Sales Price Prediction repository, where we have developed an Artificial Neural Network (ANN) model to predict car sales prices. This model is trained on historical data that includes various car features, pricing information, and sales records. By utilizing multiple hidden layers for complex pattern recognition, we have achieved high accuracy in forecasting future car sales trends. This predictive model can be deployed for informed business decisions in the automotive industry.
 
+![Car Sales Price Prediction](https://storage.googleapis.com/kaggle-datasets-images/2515235/4268549/dd5bcb78630cd07200f9be1402ac1470/dataset-cover.png)
+
 ## Problem Statement
 
 As a vehicle salesperson, you would like to create a model that can estimate the overall amount that consumers would spend given the following characteristics:
